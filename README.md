@@ -76,8 +76,19 @@ Frontend runs at `http://localhost:5173`.
 - **DELETE** `/api/cart/:id` — remove item
 
 ## Screenshots
-- Home page: _(add screenshot here)_
-- Cart page: _(add screenshot here)_
+
+### Home page
+
+![Home page](images/Home.png)
+
+### Cart page
+
+![Cart page](images/Cart.png)
+
+### Pagination example
+
+![Pagination](images/Pagination.png)
+
 
 ## Postman Collection Export
 In Postman:
