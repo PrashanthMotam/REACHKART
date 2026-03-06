@@ -12,7 +12,7 @@ const products = [
     price: 2499,
     category: "Electronics",
     stock: 25,
-    image: "https://picsum.photos/seed/headphones/500/350",
+    image: "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd",
   },
   {
     name: "Smart Watch",
@@ -20,7 +20,7 @@ const products = [
     price: 3999,
     category: "Electronics",
     stock: 18,
-    image: "https://picsum.photos/seed/smartwatch/500/350",
+    image: "https://m.media-amazon.com/images/I/61hK5QTdINL._AC_SX416_CB1169409_QL70_.jpg",
   },
   {
     name: "Running Shoes",
@@ -28,7 +28,7 @@ const products = [
     price: 2799,
     category: "Fashion",
     stock: 40,
-    image: "https://picsum.photos/seed/shoes/500/350",
+    image: "https://m.media-amazon.com/images/I/81fWuhUAYSL._SX695_.jpg",
   },
   {
     name: "Backpack",
@@ -36,7 +36,7 @@ const products = [
     price: 1499,
     category: "Fashion",
     stock: 35,
-    image: "https://picsum.photos/seed/backpack/500/350",
+    image: "https://m.media-amazon.com/images/I/314pgmgrk0L._AC_SR250,250_QL65_.jpg",
   },
   {
     name: "Coffee Mug",
@@ -44,7 +44,7 @@ const products = [
     price: 299,
     category: "Home",
     stock: 80,
-    image: "https://picsum.photos/seed/mug/500/350",
+    image: "https://m.media-amazon.com/images/I/61qkm65hJOL._AC_UL480_FMwebp_QL65_.jpg",
   },
   {
     name: "Desk Lamp",
@@ -52,7 +52,7 @@ const products = [
     price: 899,
     category: "Home",
     stock: 30,
-    image: "https://picsum.photos/seed/lamp/500/350",
+    image: "https://m.media-amazon.com/images/I/61dcESC7EoL._AC_CR0%2C0%2C0%2C0_SX615_SY462_.jpg",
   },
   {
     name: "Notebook",
@@ -60,7 +60,7 @@ const products = [
     price: 199,
     category: "Stationery",
     stock: 120,
-    image: "https://picsum.photos/seed/notebook/500/350",
+    image: "https://m.media-amazon.com/images/I/712QbGZjjnL._AC_UL480_FMwebp_QL65_.jpg",
   },
   {
     name: "Gaming Mouse",
@@ -68,7 +68,7 @@ const products = [
     price: 1299,
     category: "Electronics",
     stock: 22,
-    image: "https://picsum.photos/seed/mouse/500/350",
+    image: "https://m.media-amazon.com/images/I/516wLo4+lhL._AC_UY327_FMwebp_QL65_.jpg",
   },
   {
     name: "Water Bottle",
@@ -76,7 +76,7 @@ const products = [
     price: 499,
     category: "Sports",
     stock: 60,
-    image: "https://picsum.photos/seed/bottle/500/350",
+    image: "https://m.media-amazon.com/images/I/51YhO8-3DuL._AC_SX416_CB1169409_QL70_.jpg",
   },
   {
     name: "Bluetooth Speaker",
@@ -84,7 +84,7 @@ const products = [
     price: 1899,
     category: "Electronics",
     stock: 16,
-    image: "https://picsum.photos/seed/speaker/500/350",
+    image: "https://m.media-amazon.com/images/I/71tNG4gr2ML._AC_SX416_CB1169409_QL70_.jpg",
   },
   // Extra products to make 20 total, with related imagery
   {
@@ -93,7 +93,7 @@ const products = [
     price: 2199,
     category: "Electronics",
     stock: 30,
-    image: "https://picsum.photos/seed/earbuds/500/350",
+    image: "https://m.media-amazon.com/images/I/61ds95t85yL._AC_SX416_CB1169409_QL70_.jpg",
   },
   {
     name: "Laptop Stand",
@@ -101,7 +101,7 @@ const products = [
     price: 1599,
     category: "Electronics",
     stock: 20,
-    image: "https://picsum.photos/seed/laptopstand/500/350",
+    image: "https://m.media-amazon.com/images/I/61AS07l2cBL._AC_UY327_FMwebp_QL65_.jpg",
   },
   {
     name: "Wireless Keyboard",
@@ -109,7 +109,7 @@ const products = [
     price: 1799,
     category: "Electronics",
     stock: 26,
-    image: "https://picsum.photos/seed/keyboard/500/350",
+    image: "https://m.media-amazon.com/images/I/61Bcwky45uL._AC_SX416_CB1169409_QL70_.jpg",
   },
   {
     name: "Office Chair",
@@ -117,7 +117,7 @@ const products = [
     price: 5499,
     category: "Home",
     stock: 12,
-    image: "https://picsum.photos/seed/officechair/500/350",
+    image: "https://m.media-amazon.com/images/I/412cI6o9liL._AC_SR250,250_QL65_.jpg",
   },
   {
     name: "Travel Duffel Bag",
@@ -125,7 +125,7 @@ const products = [
     price: 1899,
     category: "Fashion",
     stock: 28,
-    image: "https://picsum.photos/seed/duffel/500/350",
+    image: "https://m.media-amazon.com/images/I/71G34I5e-+L._AC_SX416_CB1169409_QL70_.jpg",
   },
   {
     name: "Sports T-Shirt",
@@ -133,7 +133,7 @@ const products = [
     price: 599,
     category: "Fashion",
     stock: 70,
-    image: "https://picsum.photos/seed/tshirt/500/350",
+    image: "https://m.media-amazon.com/images/I/615krMsKOOL._AC_SX416_CB1169409_QL70_.jpg",
   },
   {
     name: "Yoga Mat",
@@ -141,7 +141,7 @@ const products = [
     price: 999,
     category: "Sports",
     stock: 34,
-    image: "https://picsum.photos/seed/yogamat/500/350",
+    image: "https://m.media-amazon.com/images/I/71GT6DxGXkL._AC_UL480_FMwebp_QL65_.jpg",
   },
   {
     name: "Wall Clock",
@@ -149,7 +149,7 @@ const products = [
     price: 799,
     category: "Home",
     stock: 24,
-    image: "https://picsum.photos/seed/clock/500/350",
+    image: "https://m.media-amazon.com/images/I/41tJTixGF3L._AC_SR250,250_QL65_.jpg",
   },
   {
     name: "Scented Candle",
@@ -157,7 +157,7 @@ const products = [
     price: 399,
     category: "Home",
     stock: 50,
-    image: "https://picsum.photos/seed/candle/500/350",
+    image: "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_storefront_catalog/default/dw533ea85a/allcandle.jpg"
   },
   {
     name: "Desk Organizer",
@@ -165,7 +165,7 @@ const products = [
     price: 499,
     category: "Stationery",
     stock: 65,
-    image: "https://picsum.photos/seed/organizer/500/350",
+    image: "https://m.media-amazon.com/images/I/61Tn4BUGs2L._AC_SX416_CB1169409_QL70_.jpg",
   },
 ];
 
